@@ -39,12 +39,7 @@ PictureToSketch is a Python application that enables users to convert images int
 
 ## Usage
 
-1. Run the application:
-
-    ```bash
-    python picture_to_sketch.py
-    ```
-
+1. Run the application
 2. Click on the "Select and Show Image" button to choose an image file.
 3. The selected image will be processed and displayed as a sketch in a new window.
 
