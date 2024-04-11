@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Specify Python version
+python_version >= 3.6, <4.0
+
+# Tkinter for GUI
+tkinter
+
+# OpenCV for image processing
+opencv-python
+
+# PIL for image handling
+Pillow
