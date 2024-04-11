@@ -19,17 +19,9 @@ PictureToSketch is a Python application that enables users to convert images int
 
 ## Installation
 
-1. Clone the repository:
+1. Download the repository
 
-    ```bash
-    git clone https://github.com/H0dg4m/PictureToSketch.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd PictureToSketch
-    ```
+2. Open the folder containing the repository and run the main.py file.
 
 3. Install the required libraries:
 
